@@ -1,14 +1,26 @@
 ## Problem: What makes an anime good? 
 
-### Table of contents
+### Table of contents (please view in order)
 - Data Cleaning
 - EDA
 - Analysis
 
 ### Team
-- @PRYtheSheep 
-- @itmorgan
-- @OSA7JIMI
+@PRYtheSheep 
+-  Data Cleaning
+-  Decision Tree
+-  EDA
+-  Logistic Regression
+
+@itmorgan
+- Data Visualisation
+- Slides
+- Video Editing
+
+@OSA7JIMI 
+- Data Cleaning
+- Decision Tree
+- Polynomial Regression
 
 ## Conclusion
 
