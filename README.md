@@ -1,1 +1,3 @@
-# SC1015_2023_SEM2_MINIPROJECT
+## What makes an anime good? 
+
+### Test
