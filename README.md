@@ -5,7 +5,7 @@
 - EDA
 - Analysis
 
-### Team
+### Team Members
 @PRYtheSheep 
 -  Data Cleaning
 -  Decision Tree
