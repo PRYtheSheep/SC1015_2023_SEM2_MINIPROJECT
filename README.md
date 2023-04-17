@@ -10,7 +10,6 @@
 -  Data Cleaning
 -  Decision Tree
 -  EDA
--  Logistic Regression
 
 @itmorgan
 - Data Visualisation
