@@ -6,17 +6,17 @@
 - Analysis
 
 ### Team Members
-@PRYtheSheep 
+Pey Ruo-Yang @PRYtheSheep 
 -  Data Cleaning
 -  Decision Tree
 -  EDA
 
-@itmorgan
+Tiffany Grace Sajoto @itmorgan
 - Data Visualisation
 - Slides
 - Video Editing
 
-@OSA7JIMI 
+Ezra Koh @OSA7JIMI 
 - Data Cleaning
 - Decision Tree
 - Polynomial Regression
