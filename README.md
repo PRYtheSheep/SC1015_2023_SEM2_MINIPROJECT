@@ -2,12 +2,12 @@
 
 
 
-# Best Model
+## Best Model
 ### Decision Tree (sklearn) with Cross-Validated Depth (5 iterations)
 
 
 
-# Conclusion
+## Conclusion
 ### For new anime (<5 years), Manga score is a good predictor of a good anime (Score >7.5)
 - 0.6690 classification accuracy in a cross-validated decision tree with depth 5
 
@@ -17,30 +17,30 @@
 
 
 
-# What We Learnt
-## Data Cleaning
+## What We Learnt
+### Data Cleaning
 - Transforming the numerical variable Score into classification variables to produce more accurate decision trees
 - Transforming one variable two different ways can produce very different results, e.g Season and Age, which are both based on Aired 
 - How to use SequenceMatcher from difflib to match animes to their manga sources
 - Encoding string data into integers for easier use
 
-## EDA
+### EDA
 - Some variables which are difficult to use for prediction cannot be filtered out purely through EDA, e.g. Genres
 
-## Analysis
+### Analysis
 - Linear and Polynomial Regression could not be used due to low correlation values
 - Logistic Regression also failed because both the classification variables for Score had a numerical bias toward a certain class, which led to the model always predicting an anime as that class
 - Using Cross Validation to find the best depth for decision trees is a good method, but a regular decision tree may occasionally produce slightly better accuracy as it is more randomized
 
 
 
-# Future Considerations
+## Future Considerations
 - Ratings from reputable critics and reviewers might produce more accurate predictions
 - Expand analysis to include anime based on other sources such as novels and games
 
 
 
-# Datasets & References
+## Datasets & References
 MAL Top 10000 Anime Details: Main dataset containing a few predictors such as Genre and Source, as well as the initial response variable Score
 - https://www.kaggle.com/datasets/stoicstatic/mal-top-10k-anime-details?select=MAL+Anime+Top+10000+Details.csv
 
@@ -58,7 +58,7 @@ TV_data_manga: Final dataset
 
 
 
-# Team Members & Contributions
+## Team Members & Contributions
 ### Pey Ruo-Yang @PRYtheSheep 
 -  Data Cleaning
 -  EDA
