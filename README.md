@@ -3,7 +3,7 @@
 
 
 ## Best Model
-### Decision Tree (sklearn) with Cross-Validated Depth (5 iterations)
+Decision Tree (sklearn) with Cross-Validated Depth (5 iterations)
 
 
 
